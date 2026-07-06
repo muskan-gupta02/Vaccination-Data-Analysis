@@ -128,17 +128,26 @@ SHOW TABLES;
 
 **File:** `Vaccination_Analysis.pbix`
 
-7 interactive pages built in Power BI:
+### Page 1 — Coverage Overview
+![Coverage Overview](screenshots/pb_coverage_overview.png)
 
-| Page | Description |
-|------|-------------|
-| Coverage Overview | Global coverage trend over years |
-| Regional Analysis | Coverage comparison across 6 WHO regions |
-| Coverage Vs Disease | Scatter plot — coverage vs incidence rate |
-| KPI Dashboard | Avg coverage: 77.61% \| Cases: 293M \| Countries: 245 |
-| Disease Analysis | Top diseases by incidence + year trends |
-| Vaccine Introduction | Country-wise introduction status |
-| Geographic Map | World map — coverage bubble by country |
+### Page 2 — Regional Analysis
+![Regional Analysis](screenshots/pb_regional_analysis.png)
+
+### Page 3 — Coverage Vs Disease
+![Coverage Vs Disease](screenshots/pb_coverage_vs_disease.png)
+
+### Page 4 — KPI Dashboard
+![KPI Dashboard](screenshots/pb_kpi_dashboard.png)
+
+### Page 5 — Disease Analysis
+![Disease Analysis](screenshots/pb_disease_analysis.png)
+
+### Page 6 — Vaccine Introduction
+![Vaccine Introduction](screenshots/pb_vaccine_introduction.png)
+
+### Page 7 — Geographic Map
+![Geographic Map](screenshots/pb_geographic_map.png)
 
 ---
 
