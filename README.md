@@ -129,25 +129,25 @@ SHOW TABLES;
 **File:** `Vaccination_Analysis.pbix`
 
 ### Page 1 — Coverage Overview
-![Coverage Overview](screenshots/pb_coverage_overview.png)
+![Coverage Overview](Screenshots/pb_coverage_overview.png)
 
 ### Page 2 — Regional Analysis
-![Regional Analysis](screenshots/pb_regional_analysis.png)
+![Regional Analysis](Screenshots/pb_regional_analysis.png)
 
 ### Page 3 — Coverage Vs Disease
-![Coverage Vs Disease](screenshots/pb_coverage_vs_disease.png)
+![Coverage Vs Disease](Screenshots/pb_coverage_vs_disease.png)
 
 ### Page 4 — KPI Dashboard
-![KPI Dashboard](screenshots/pb_kpi_dashboard.png)
+![KPI Dashboard](Screenshots/pb_kpi_dashboard.png)
 
 ### Page 5 — Disease Analysis
-![Disease Analysis](screenshots/pb_disease_analysis.png)
+![Disease Analysis](Screenshots/pb_disease_analysis.png)
 
 ### Page 6 — Vaccine Introduction
-![Vaccine Introduction](screenshots/pb_vaccine_introduction.png)
+![Vaccine Introduction](Screenshots/pb_vaccine_introduction.png)
 
 ### Page 7 — Geographic Map
-![Geographic Map](screenshots/pb_geographic_map.png)
+![Geographic Map](Screenshots/pb_geographic_map.png)
 
 ---
 
